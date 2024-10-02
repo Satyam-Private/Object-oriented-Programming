@@ -11,6 +11,11 @@ a = person()
 a.name = "satyam patil"
 a.info()
 b = person()
-b.name = "s"
+b.name = "sagar"
 b.occupation = 'HR'
 b.info()
+
+c = person()
+c.name = "suraj"
+c.occupation = "engineer"
+c.info()
